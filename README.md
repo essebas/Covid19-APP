@@ -29,7 +29,12 @@ Es la vista inicial al ejecutar la aplicación. Se muestra el mapa, cargando en 
 
 #### Vista de Datos
 Se muestra una ventana de información sobre el área que que representan los datos.
+
 ![enter image description here](https://github.com/essebas/Covid19-APP/blob/master/img_readme/info1_view.PNG?raw=true)
+
 ![enter image description here](https://github.com/essebas/Covid19-APP/blob/master/img_readme/info2_view.PNG?raw=true)
+
 ![enter image description here](https://github.com/essebas/Covid19-APP/blob/master/img_readme/info3_view.PNG?raw=true)
+
 ![enter image description here](https://github.com/essebas/Covid19-APP/blob/master/img_readme/info4_view.PNG?raw=true)
+
